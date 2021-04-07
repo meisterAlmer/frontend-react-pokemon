@@ -1,0 +1,28 @@
+button.pages-btn {
+  background: #c7a008;
+  border: none;
+  outline: none;
+  padding: 6px 12px;
+  font-size: 16px;
+  border-radius: 4px;
+  margin: 0 4px;
+  opacity: 0.5;
+}
+
+button.pages-btn-active {
+  font-weight: bold;
+  background: #c7a008;
+  border: none;
+  outline: none;
+  padding: 6px 12px;
+  font-size: 16px;
+  border-radius: 4px;
+  margin: 0 4px;
+  opacity: 1;
+  border: 2px solid darkgoldenrod;
+}
+
+button.pages-btn:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
